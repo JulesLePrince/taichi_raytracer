@@ -1,5 +1,7 @@
-# Exclude meshes folder
+# Exclude meshes folder except specific la_valse files
 meshes/
+!meshes/la_valse_nodes.npy
+!meshes/la_valse_triangle.npy
 
 # Exclude hdris folder
 hdris/
