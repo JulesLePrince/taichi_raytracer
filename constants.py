@@ -1,0 +1,7 @@
+import taichi as ti
+
+MAX_LEN = 10e8
+MAX_BOUNCE = 6
+PI = 3.1415926535
+EPS = 5e-4
+MAX_STACK_SIZE = 100
